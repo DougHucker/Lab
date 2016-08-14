@@ -1,1 +1,3 @@
 Slider code.
+
+New line
